@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.img-caption{
+    max-width: fit-content;
+}
+
+.carousel-div{
+    max-width: 800px;
+}
+.socials{
+    display: flex;
+    gap:20px;
+}
